@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="Screenshot_2026-08-02_14_05_14.png" alt="Dirsearch Toolkit Execution Preview" width="100%">
+![Dirsearch Toolkit Execution Preview](Screenshot_2026-08-02_14_05_14.png)
 
 # 📁 DIRSEARCH-TOOLKIT
 
