@@ -1,4 +1,6 @@
-![Dirsearch Toolkit Execution Preview](./Screenshot_2026-08-02_14_05_14.png)
+![Dirsearch Toolkit Execution Preview](https://raw.githubusercontent.com/whoami136/DIRSEARCH-TOOLKIT/main/Screenshot_2026-08-02_14_05_14.png)
+
+<div align="center">
 
 # 📁 DIRSEARCH-TOOLKIT
 
