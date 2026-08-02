@@ -1,7 +1,6 @@
-![Dirsearch Toolkit Execution Preview](https://raw.githubusercontent.com/whoami136/DIRSEARCH-TOOLKIT/main/Screenshot_2026-08-02_14_05_14.png)
+![Screenshot_2026-08-02_14_05_14](https://github.com/user-attachments/assets/9450e646-cd70-460f-bd29-c55089a79033)
 
 <div align="center">
-
 # 📁 DIRSEARCH-TOOLKIT
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
