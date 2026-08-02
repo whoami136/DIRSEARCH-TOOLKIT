@@ -1,4 +1,6 @@
-![Dirsearch Toolkit Execution Preview](Screenshot_2026-08-02_14_05_14.png)
+<p align="center">
+  <img src="Screenshot_2026-08-02_14_05_14.png" alt="Dirsearch Toolkit Execution Preview" width="100%">
+</p>
 # DIRSEARCH-TOOLKIT
 This script is an Advanced Universal Dirsearch Toolkit created by Nur (whoami136). It features custom ASCII art banners, interactive target URL loading via nano, and runs multi-threaded directory enumeration using dirsearch with custom user-agents and timeout configurations.
 # 🛠️ Comprehensive Enterprise-Grade Tool Overview: Advanced Dirsearch Toolkit (DIRSEARCH-TOOLKIT)
