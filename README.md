@@ -1,4 +1,5 @@
-![Dirsearch Toolkit Execution Preview](Screenshot_2026-08-02_14_05_14.png)
+![Uploading Screenshot_2026-08-02_14_05_14.png…]()
+
 
 # 📁 DIRSEARCH-TOOLKIT
 
