@@ -1,9 +1,20 @@
-<p align="center">
-  <img src="Screenshot_2026-08-02_14_05_14.png" alt="Dirsearch Toolkit Execution Preview" width="100%">
-</p>
-# DIRSEARCH-TOOLKIT
-This script is an Advanced Universal Dirsearch Toolkit created by Nur (whoami136). It features custom ASCII art banners, interactive target URL loading via nano, and runs multi-threaded directory enumeration using dirsearch with custom user-agents and timeout configurations.
-# 🛠️ Comprehensive Enterprise-Grade Tool Overview: Advanced Dirsearch Toolkit (DIRSEARCH-TOOLKIT)
+<div align="center">
+
+<img src="Screenshot_2026-08-02_14_05_14.png" alt="Dirsearch Toolkit Execution Preview" width="100%">
+
+# 📁 DIRSEARCH-TOOLKIT
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Kali%20NetHunter%20%7C%20VirtualBox-blue)](https://github.com/whoami136/DIRSEARCH-TOOLKIT)
+[![Bash Shell](https://img.shields.io/badge/Language-Bash-green.svg)](https://www.gnu.org/software/bash/)
+
+A lightweight, terminal-based utility designed for mass directory and file enumeration, optimized for NetHunter Rootless and VirtualBox PC Kali Linux environments.
+
+</div>
+
+---
+
+## 🛠️ Comprehensive Enterprise-Grade Tool Overview
 
 The **Advanced Dirsearch Toolkit** (meticulously architected, crafted, and designed by security researcher Nur `whoami136`) represents the absolute pinnacle of modern, lightweight Bash utility engineering. Purpose-built for high-performance offensive security operations, penetration testing engagements, and web application assessments, this framework is fully optimized for advanced command-line ecosystems, including standard Linux server distributions, Kali NetHunter Rootless mobile penetration testing platforms, and VirtualBox PC Kali Linux laboratory installations. 
 
@@ -30,16 +41,6 @@ Its primary structural objective is to completely revolutionize, streamline, and
 5. **Session Wrap-Up & Notification:** Displays vivid status notifications upon scan completion for each individual target endpoint before gracefully terminating the execution loop and returning control back to the shell prompt.
 
 ---
-
-## 🛡️ Professional Disclaimer & Legal Compliance Notice
-
-*This software, along with its associated source code, scripts, and documentation, is created strictly and exclusively for educational purposes, authorized security auditing, web application penetration testing, vulnerability assessments, and red team training exercises. Unauthorized scanning, probing, or testing of target web servers, applications, or domains without explicit, prior written authorization from the legitimate system owner or legal entity is strictly prohibited by international computer crime laws. The author (`whoami136`) assumes absolute zero legal liability and accepts no responsibility whatsoever for any misuse, institutional damages, service disruptions, or legal repercussions caused by the deployment, modification, or improper utilization of this software.*
-
----
-
-# 📁 DIRSEARCH-TOOLKIT
-
-A lightweight, terminal-based utility designed for mass directory and file enumeration, optimized for NetHunter Rootless and VirtualBox PC Kali Linux environments. It empowers security professionals and penetration testers to seamlessly scan multiple endpoints concurrently using automated interactive input workflows without cluttering disk storage with unnecessary output logs. Built entirely using pure POSIX-compliant Bash scripting, this tool ensures maximum portability, lightning-fast execution speeds, and elite reliability directly from your terminal. Whether you are conducting web application assessments, mapping out hidden directories, or evaluating server security postures, DIRSEARCH-TOOLKIT provides an effortless, streamlined interface to manage target lists and run high-performance scans on the fly.
 
 ## 🚀 Requirements & Installation
 
