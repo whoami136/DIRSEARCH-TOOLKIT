@@ -44,21 +44,6 @@ Its primary structural objective is to completely revolutionize, streamline, and
 ## 🚀 Requirements & Installation
 
 ```bash
-# Update system package lists
-sudo apt update && sudo apt upgrade -y
-
-# Install git and pipx (recommended for Kali Linux PEP 668 compliance)
-sudo apt install git pipx nano -y
-
-# Ensure pipx path is configured correctly
-pipx ensurepath
-
-# Install Dirsearch globally via pipx (bypasses externally-managed-environment errors)
-pipx install dirsearch
-
-# Alternatively, install via apt if available natively
-sudo apt install dirsearch -y
-
 # Clone the repository
 git clone git@github.com:whoami136/DIRSEARCH-TOOLKIT.git
 
@@ -67,6 +52,9 @@ cd DIRSEARCH-TOOLKIT
 
 # Grant execution permissions to the script
 chmod +x dirsearch.sh
+chmod +x setup.sh
+./setup.sh
+
 
 # Run the tool
 ./dirsearch.sh
