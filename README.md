@@ -45,7 +45,7 @@ Its primary structural objective is to completely revolutionize, streamline, and
 
 ```bash
 # Clone the repository
-git clone git@github.com:whoami136/DIRSEARCH-TOOLKIT.git
+git clone https://github.com/whoami136/DIRSEARCH-TOOLKIT.git
 
 # Navigate into the project directory
 cd DIRSEARCH-TOOLKIT
